@@ -12,7 +12,7 @@ const contactItems = [
   {
     icon: '💬',
     title: 'WhatsApp',
-    val: PHONE,
+    val: WA_LINK,
     href: WA_LINK,
   },
   {
