@@ -1,11 +1,7 @@
-# Porterfly — сайт грузоперевозок
-
-React + Tailwind CSS лендинг в стиле [porterfly.kg](https://porterfly.kg).
-
 ## Структура проекта
 
 ```
-porterfly/
+porter-tez/
 ├── index.html
 ├── package.json
 ├── vite.config.js
@@ -29,30 +25,3 @@ porterfly/
         ├── FloatingCTA.jsx # Плавающие кнопки (только мобиль)
         └── StarRating.jsx  # Компонент звёзд рейтинга
 ```
-
-## Запуск
-
-```bash
-npm install
-npm run dev
-```
-
-Откройте [http://localhost:5173](http://localhost:5173)
-
-## Сборка для продакшена
-
-```bash
-npm run build
-```
-
-Результат в папке `dist/`.
-
-## Кастомизация
-
-Все данные сайта (телефон, услуги, тарифы, отзывы) находятся в одном файле:
-
-```
-src/data/index.js
-```
-
-Измените `PHONE`, `WA_LINK` и остальные данные под свой бизнес.
