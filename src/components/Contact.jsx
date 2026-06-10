@@ -12,7 +12,7 @@ const contactItems = [
   {
     icon: '💬',
     title: 'WhatsApp',
-    val: '+996 500 438 646',
+    val: '+996 704 425 356',
     href: WA_LINK,
   },
   {
