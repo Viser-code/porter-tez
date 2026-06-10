@@ -31,7 +31,6 @@ export default function Hero() {
             {/* Badge */}
             <div className="inline-flex items-center gap-2 bg-orange-100 border border-orange-200 rounded-full px-4 py-1.5 mb-6">
               <span className="w-2 h-2 bg-orange-500 rounded-full animate-pulse" />
-              <span className="text-orange-700 text-sm font-medium">
                 Работаем 24/7 · Подача от 20 минут
               </span>
             </div>

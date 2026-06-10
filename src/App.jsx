@@ -7,6 +7,7 @@ import Pricing from "./components/Pricing";
 import Reviews from "./components/Reviews";
 import Contact from "./components/Contact";
 import Footer from "./components/Footer";
+import FloatingButtons from "./components/FloatingButtons";
 
 export default function App() {
   const [menuOpen, setMenuOpen] = useState(false);
@@ -23,6 +24,7 @@ export default function App() {
         <Contact />
       </main>
       <Footer />
+      <FloatingButtons />
     </div>
   );
 }
