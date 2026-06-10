@@ -44,7 +44,7 @@ export default function Footer() {
 
         <div className="flex flex-col sm:flex-row items-start sm:items-center justify-between gap-3 pt-6 border-t border-gray-100">
           <p className="text-gray-400 text-sm">
-            © 2019–2025 Porter-tez. Портер такси, вывоз мусора и грузоперевозки по Бишкеку.
+            © 2019–2026 Porter-tez. Портер такси, вывоз мусора и грузоперевозки по Бишкеку.
           </p>
           <div className="flex gap-3">
             <a
