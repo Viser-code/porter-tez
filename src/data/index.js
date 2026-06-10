@@ -2,6 +2,7 @@ export const PHONE = '+996 500 438 646'
 export const PHONE2 = '+996 704 425 356'
 export const WA_LINK = 'https://wa.me/996704425356'
 export const TEL_LINK = 'tel:+996500438646'
+export const TEL_LINK2 = 'tel:+996500438646'
 
 export const services = [
   {
