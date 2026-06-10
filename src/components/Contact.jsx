@@ -25,7 +25,7 @@ const contactItems = [
     icon: '📍',
     title: 'Адрес',
     val: 'г. Бишкек, ул. Власова, 35',
-    href: 'https://maps.google.com/?q=Власова+35+Бишкек',
+    href: 'https://2gis.kg/bishkek/search/Власова%2035',
   },
 ]
 
