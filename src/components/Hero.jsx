@@ -70,6 +70,11 @@ export default function Hero() {
                 className="flex items-center justify-center gap-2 border-2 border-gray-200 hover:border-orange-400 text-gray-700 hover:text-orange-500 font-semibold px-8 py-4 rounded-xl text-lg transition-all active:scale-95 bg-white">
                 <span>📞</span> {PHONE}
               </a>
+              <a
+                href={TEL_LINK}
+                className="flex items-center justify-center gap-2 border-2 border-gray-200 hover:border-orange-400 text-gray-700 hover:text-orange-500 font-semibold px-8 py-4 rounded-xl text-lg transition-all active:scale-95 bg-white">
+                <span>📞</span> {PHONE2}
+              </a>
             </div>
           </div>
 
