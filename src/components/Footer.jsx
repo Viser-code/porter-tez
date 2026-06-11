@@ -48,11 +48,6 @@ export default function Footer() {
           </p>
           <div className="flex gap-3">
             <a
-              href={TEL_LINK}
-              className="bg-gray-50 hover:bg-gray-100 border border-gray-200 text-gray-600 text-sm px-4 py-2 rounded-lg transition-colors">
-              📞 Позвонить
-            </a>
-            <a
               href={WA_LINK}
               className="bg-green-50 hover:bg-green-100 border border-green-200 text-green-700 text-sm px-4 py-2 rounded-lg transition-colors">
               💬 WhatsApp
