@@ -3,6 +3,8 @@ export const PHONE2 = '+996 704 425 356'
 export const WA_LINK = 'https://wa.me/996704425356'
 export const TEL_LINK = 'tel:+996500438646'
 export const TEL_LINK2 = 'tel:+996704425356'
+export const INSTA =
+  'https://www.instagram.com/porterr_taxi312?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=='
 
 export const services = [
   {

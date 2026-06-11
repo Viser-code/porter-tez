@@ -1,4 +1,4 @@
-import { PHONE, TEL_LINK, WA_LINK } from '../data'
+import { PHONE, TEL_LINK, WA_LINK, INSTA } from '../data'
 
 const TG_LINK = 'https://t.me/Ulan_9393'
 
@@ -84,6 +84,13 @@ export default function Contact() {
               rel="noopener noreferrer"
               className="flex-1 flex items-center justify-center gap-2 bg-sky-500 hover:bg-sky-400 text-white font-bold py-4 rounded-xl transition-all active:scale-95 text-lg">
               ✈️ Telegram
+            </a>{' '}
+            <a
+              href={INSTA}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="flex-1 flex items-center justify-center gap-2 bg-pink-500 hover:bg-pink-400 text-white font-bold py-4 rounded-xl transition-all active:scale-95 text-lg">
+              📸 Instagram
             </a>
           </div>
 

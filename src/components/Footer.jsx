@@ -1,6 +1,6 @@
-import { TEL_LINK, WA_LINK } from '../data'
+import { TEL_LINK, WA_LINK, INSTA } from '../data'
 
-const TG_LINK = 'https://t.me/portertez'
+const TG_LINK = 'https://t.me/Ulan_9393'
 
 const links = [
   ['#services', 'Услуги'],
@@ -63,6 +63,13 @@ export default function Footer() {
               rel="noopener noreferrer"
               className="bg-sky-50 hover:bg-sky-100 border border-sky-200 text-sky-700 text-sm px-4 py-2 rounded-lg transition-colors">
               ✈️ Telegram
+            </a>
+            <a
+              href={INSTA}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="bg-pink-50 hover:bg-pink-100 border border-pink-200 text-pink-700 text-sm px-4 py-2 rounded-lg transition-colors">
+              📸 Instagram
             </a>
           </div>
         </div>
