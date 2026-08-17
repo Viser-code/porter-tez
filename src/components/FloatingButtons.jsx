@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react'
 
-const PHONE1 = '+996 500 438 646'
+const PHONE1 = '+996 220 453 408'
 const TEL1 = 'tel:+996500438646'
 const PHONE2 = '+996 704 425 356'
 const TEL2 = 'tel:+996704425356'
