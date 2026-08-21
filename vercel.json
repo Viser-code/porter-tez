@@ -1,3 +1,3 @@
 {
-  "installCommand": "npm install --foreground-scripts"
+  "installCommand": "npm install --foreground-scripts && npx npm-approve-scripts esbuild && npm install"
 }
