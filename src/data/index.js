@@ -4,7 +4,7 @@ export const WA_LINK = 'https://wa.me/996704425356'
 export const TEL_LINK = 'tel:+996220453408'
 export const TEL_LINK2 = 'tel:+996704425356'
 export const INSTA =
-  'https://www.instagram.com/porterr_taxi312?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=='
+  'https://www.instagram.com/amanat_porter_kg?utm_source=ig_web_button_share_sheet&igsi=ZDNlZDc0MzIxNw=='
 
 export const services = [
   {
