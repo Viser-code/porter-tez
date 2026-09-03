@@ -1,7 +1,7 @@
 import { useEffect, useState } from 'react'
 
 const PHONE1 = '+996 220 453 408'
-const TEL1 = 'tel:+996500438646'
+const TEL1 = 'tel:+996 220 453 408'
 const PHONE2 = '+996 704 425 356'
 const TEL2 = 'tel:+996704425356'
 const WA_LINK = 'https://wa.me/996704425356'
