@@ -4,8 +4,7 @@ export const WA_LINK = 'https://wa.me/996704425356'
 export const TEL_LINK = 'tel:+996220453408'
 export const TEL_LINK2 = 'tel:+996704425356'
 export const INSTA =
-  'https://www.instagram.com/amanat_porter_kg?stkn=M3hqMjNmaDcxdzE5
-
+ 'https://www.instagram.com/amanat_porter_kg/' 
 export const services = [
   {
     icon: '🚛',
